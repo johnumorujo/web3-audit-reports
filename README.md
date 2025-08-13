@@ -38,7 +38,7 @@ These audit reports represent a security analysis based on the code and informat
 
 **Author:** John Umoru  
 **Contact:** johnumorujo@gmail.com  
-**Twitter:** https://x.com/johnumorujo/
+**Twitter:** https://x.com/johnumorujo
 
 
 
