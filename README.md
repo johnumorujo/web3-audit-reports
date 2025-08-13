@@ -1,4 +1,3 @@
-```markdown
 # Smart Contract Audit Reports
 
 This repository contains my collection of smart contract security audit reports. Each audit documents identified vulnerabilities, their severity, risk classifications, and recommendations for remediation.
@@ -20,15 +19,15 @@ YYYY-MM-DD\_ProtocolName.pdf
 ```
 ## 📑 Audit Index
 
-| Date       | Protocol Name   | Report |
-|------------|-----------------|--------|
-| 2025-08-12 | PasswordStore   | [View PDF](2025-08-12_PasswordStore.pdf) |
+| Date       | Protocol Name | Report                                   |
+| ---------- | ------------- | ---------------------------------------- |
+| 2025-08-12 | PasswordStore | [View PDF](2025-08-12_PasswordStore.pdf) |
 
 ## 📜 Contents
-- Comprehensive audit findings
-- Risk classification (High, Medium, Low, Informational, Gas)
-- Suggested fixes and best practices
 - Protocol summaries
+- Risk classification (High, Medium, Low, Informational, Gas)
+- Comprehensive audit findings
+- Suggested fixes and best practices
 
 ## 📌 Purpose
 The goal of this repository is to:
@@ -43,6 +42,7 @@ These audit reports represent a security analysis based on the code and informat
 
 **Author:** John Umoru  
 **Contact:** johnumorujo@gmail.com
-```
+**Twitter:** https://x.com/johnumorujo/
+
 
 
