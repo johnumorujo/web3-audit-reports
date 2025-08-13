@@ -6,16 +6,12 @@ This repository contains my collection of smart contract security audit reports.
 Audit reports are stored as PDF files with the following naming convention:
 
 ```
-
 YYYY-MM-DD\_ProtocolName.pdf
-
 ```
 
 **Example:**
 ```
-
 2025-08-12\_PasswordStore.pdf
-
 ```
 ## 📑 Audit Index
 
