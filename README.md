@@ -18,7 +18,7 @@ YYYY-MM-DD\_ProtocolName.pdf
 | Date       | Protocol Name | Report                                   |
 | ---------- | ------------- | ---------------------------------------- |
 | 2025-08-12 | PasswordStore | [View PDF](2025-08-12_PasswordStore.pdf) |
-| 2025-08-21 | PuppyRaffle   | [View PDF](2025-08-20_PuppyRaffle.pdf)   |
+| 2025-08-21 | PuppyRaffle   | [View PDF](2025-08-21_PuppyRaffle.pdf)   |
 
 ## 📜 Contents
 - Protocol summaries
